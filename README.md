@@ -1,7 +1,7 @@
 # E-Commerce_Database-Analyst
 E-commerce Database Analysis
 
-# DATASET:
+# Dataset:
 
 The dataset is from an online retailer using in-house server hosting for their website. They have multiple new products launched and I will derive insights into how well they're website is driving sales. The dataset I'll be using is comprised of three years worth of data, however, I'll be drilling down into just the first year's performance.
 
