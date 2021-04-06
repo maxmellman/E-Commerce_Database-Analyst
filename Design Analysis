@@ -1,0 +1,27 @@
+
+# Background
+I'm an Ecommerce Database Analyst for an online retailer which has just launched their first product. I will analyze and optimize marketing channels, measure and test website conversion
+performance, and use data to understand the impact of changes to the website.
+
+# Purpose
+Analyze and optimize the business’ marketing channels, website, and product portfolio.
+
+# Abstract
+Ecommerce websites are in a constant state of change to optimize their investments in driving web traffic and optimizing the sales funnel for their products and services. 
+These websites track performance using key performance indicators (KPI) to measure the sites ability to drive sales and increase return of investment (ROI). 
+In this analysis, I aimed to examine the sites performance to drive sales by identifying top traffic sources (paid search versus organic) and measuring their conversion rates (CVR), 
+analyzing trends in CVR and web traffic hitting the site, using segmentation (desktop versus mobile) for bidding optimization,  calculating bounce rates, and 
+building conversion funnels for top landing pages.
+
+My analysis examined the reasons for the monthly percentage change in conversion rates for the 2012 year. From this trend analysis, a top down approach 
+of the website’s pages were analyzed to pinpoint any factors impacting these conversion rates from month to month.
+
+The addition of two new landing pages, ‘lander-1’ and ‘billing-2’ coincided with significant increases in CVR by 22% and 17% respectively for the months highlighted in the analysis. 
+Multiple A/B split tests were used to confirm the findings which saw an overall 8% decrease in bounce rate for traffic landing on ‘lander-1’ and a ‘15%’ increase in click-through 
+rate for the ‘billing-2’ page leading to a lift of $8.51 of revenue per order.   
+
+My data insights revealed the cause and effect relationship between the competitive and elusive landscape of the e-commerce environment and a website’s inherent need 
+to adapt their strategies for their products and services and find those consumers who will derive the most benefit.
+
+
+
