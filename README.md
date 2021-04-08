@@ -3,9 +3,9 @@ E-commerce Database Analysis
 
 # Dataset:
 
-The dataset is from an online retailer using in-house server hosting for their website. They have multiple new products launched and I will derive insights into how well they're website is driving sales. The dataset I'll be using is comprised of three years worth of data, however, I'll be drilling down into just the first year's performance.
+The dataset is from an online retailer using in-house server hosting for their website. They have multiple new products launched and I will derive insights into how well they're website is driving sales. My analysis drills down into the first year's performance.
 
-I'll be working with three related tables, which contain eCommerce data about:
+I'll be working with three related tables containing ecommerce data about:
 
 •Website Activity
 •Products
@@ -29,8 +29,8 @@ The tables and thier contents can be viewed at this link: https://user-images.gi
 Note: The upcoming steps involve downloading the CSV files located in this repository and importing them into PgAdmin. Currently, there is no automated way to import these files without first creating the tables for the data. The following instructions entail creating the tables first through a SQL Query then importing the CSV files into those tables.
 
 1. Click on the Postgresql version downloaded (top right corner) and select 'Create'--> 'Database...' and name your database when prompted.
-2. Click on the newly created database and select 'Query tool...' to create your table. The name of the table and columns are provided from the link above.
-3. Expand your created database and expand the 'Schemas' tab, then expand the 'public' schema to find your created tables.
+2. Click on the newly created database and select 'Query tool...' to create your table. The data for the tables and columns are provided from the link above.
+3. Expand the newly created database icon, then expand the 'Schemas' tab, and lastly expand the 'public' schema to find your created tables from step 2.
 4. Download the datasets from the repository and copy the file path. (This will be used as the 'filename' for your 'Import/Export' prompt in PgAdmin.)
 5. Right click on your created table and select 'Import/Export...'.
 6. Paste the copied filepath in the filename prompt. 
