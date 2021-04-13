@@ -11,8 +11,10 @@ I'll be working with three related tables containing ecommerce data about:
 •Products
 •Orders
 
-The tables and thier contents can be viewed at this link: https://user-images.githubusercontent.com/81595198/113777828-7aae0e00-96e0-11eb-8aba-fdf9243a5d47.PNG
+The tables and thier contents can be viewed below:
 <img src="Images/Tables_Breakdown.PNG" width='75%' />
+website_session_id: A unique identifier for each new session on the site.
+website_pageview_id: An incremental counter for each new view on the site per session.
 
 # Tools:
 
