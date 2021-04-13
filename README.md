@@ -3,9 +3,9 @@ I'm an Ecommerce Database Analyst for an online retailer which has just launched
 
 # Dataset
 
-The dataset is from an online retailer using in-house server hosting for their website. They have multiple new products launched and I will derive insights into how well they're website is driving sales. My analysis drills down into the first year's performance.
+The ecommerce dataset is from an online retailer using in-house server hosting for their website. They have multiple new products launched and I will derive insights into how well they're website is driving sales. My analysis drills down into the first year's performance.
 
-I'll be working with three related tables containing ecommerce data about:
+I'll be working with three related tables containing nearly 1.7 million observations with 21 variables:
 
 •Website Activity<br>
 •Products<br>
@@ -16,6 +16,7 @@ The tables and thier contents can be viewed below:
 
 website_session_id: A unique identifier for each new session on the site.<br>
 website_pageview_id: An incremental counter for each new view on the site per session.<br>
+order_id: Each product sold is assigned a product identifier.<br>
 
 # Tools
 
