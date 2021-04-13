@@ -7,20 +7,21 @@ The dataset is from an online retailer using in-house server hosting for their w
 
 I'll be working with three related tables containing ecommerce data about:
 
-•Website Activity
-•Products
-•Orders
+•Website Activity<br>
+•Products<br>
+•Orders<br>
 
 The tables and thier contents can be viewed below:
 <img src="Images/Tables_Breakdown.PNG" width='75%' />
-website_session_id: A unique identifier for each new session on the site.
-website_pageview_id: An incremental counter for each new view on the site per session.
+
+website_session_id: A unique identifier for each new session on the site.<br>
+website_pageview_id: An incremental counter for each new view on the site per session.<br>
 
 # Tools:
 
-•PgAdmin
-•PostgreSQL
-•Tableau
+•PgAdmin<br>
+•PostgreSQL<br>
+•Tableau<br>
 
 # Installation:
 
