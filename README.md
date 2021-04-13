@@ -1,5 +1,5 @@
-# E-Commerce_Database-Analyst
-E-commerce Database Analysis
+# Introduction
+I'm an Ecommerce Database Analyst for an online retailer which has just launched their first product. I will analyze and optimize marketing channels, measure and test website conversion performance, and use data to understand the impact of changes to the website.
 
 # Dataset:
 
