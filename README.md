@@ -1,7 +1,7 @@
 # Introduction
 I'm an Ecommerce Database Analyst for an online retailer which has just launched their first product. I will analyze and optimize marketing channels, measure and test website conversion performance, and use data to understand the impact of changes to the website.
 
-# Dataset:
+# Dataset
 
 The dataset is from an online retailer using in-house server hosting for their website. They have multiple new products launched and I will derive insights into how well they're website is driving sales. My analysis drills down into the first year's performance.
 
@@ -17,13 +17,13 @@ The tables and thier contents can be viewed below:
 website_session_id: A unique identifier for each new session on the site.<br>
 website_pageview_id: An incremental counter for each new view on the site per session.<br>
 
-# Tools:
+# Tools
 
 •PgAdmin<br>
 •PostgreSQL<br>
 •Tableau<br>
 
-# Installation:
+# Installation
 
 1. Go to www.postgresql.org and click on the 'Downloads' Tab to download the appropriate version for your OS.
 2. Run the installer for PostgreSQL leaving all the compenents checked and be sure to remember the password you create once prompted. (Uncheck 'Launch Stack Builder'.)
