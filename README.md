@@ -5,7 +5,7 @@ I'm an Ecommerce Database Analyst for an online retailer which has just launched
 
 The ecommerce dataset is from an online retailer using in-house server hosting for their website. They have multiple new products launched and I will derive insights into how well they're website is driving sales. My analysis drills down into the first year's performance.
 
-I'll be working with three related tables containing nearly 1.7 million observations with 21 variables:
+I'll be working with three related tables containing nearly 1.7 million observations with 21 variables. The ecommerce dataset features information about the following:
 
 •Website Activity<br>
 •Products<br>
