@@ -1,19 +1,19 @@
 # Introduction
-I'm an Ecommerce Database Analyst for an online retailer which has just launched their first product. I will analyze and optimize marketing channels, measure and test website conversion performance, and use data to understand the impact of changes to the website.
+I'm an E-commerce Database Analyst for an online retailer which has just launched their first product. I will analyze and optimize marketing channels, measure and test website conversion performance, and use data to understand the impact of changes to the website.
 
 You can follow along using my Tableau Dashboard for this analysis here:<a href="https://public.tableau.com/profile/max53497276#!/"> Tableau Profile for Max Mellman</a>
 
 # Dataset
 
-The ecommerce dataset is from an online retailer using in-house server hosting for their website. They have multiple new products launched and I will derive insights into how well they're website is driving sales. My analysis drills down into the first year's performance.
+The e-commerce dataset is from an online retailer using in-house server hosting for their website. They have multiple new products launched and I will derive insights into how well their website is driving sales. My analysis drills down into the first year's performance.
 
-I'll be working with three related tables containing nearly 1.7 million observations with 21 variables. The ecommerce dataset features information about the following:
+I'll be working with three related tables containing nearly 1.7 million observations with 21 variables. The e-commerce dataset features information about the following:
 
 •Website Activity<br>
 •Products<br>
 •Orders<br>
 
-The tables and thier contents can be viewed below:
+The tables and their contents can be viewed below:
 <img src="Images/Tables_Breakdown.PNG" width='75%' />
 
 website_session_id: A unique identifier for each new session on the site.<br>
